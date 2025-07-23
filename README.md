@@ -24,11 +24,11 @@
 
 2025-7-23 学生信息管理系统（利用模块化的思想）studentSystem2
 ```python
-    main.py  主程序
-    run.py  启动程序
-    file.py  文件的相关操作
-    tools.py  增删改查等业务逻辑的实现
-    students.txt  存储学生信息
+main.py  主程序
+run.py  启动程序
+file.py  文件的相关操作
+tools.py  增删改查等业务逻辑的实现
+students.txt  存储学生信息
 ```
 
 
